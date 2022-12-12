@@ -1,0 +1,14 @@
+﻿  Practic2.cpp
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(71): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(71): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(122): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(142): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(159): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(191): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(226): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(247): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(265): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(275): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\555va\source\repos\pracitc2\practic2\practic2.cpp(419): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Practic2.vcxproj -> C:\Users\555va\source\repos\PRACITC2\Debug\Practic2.exe
